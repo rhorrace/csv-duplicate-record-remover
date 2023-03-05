@@ -1,0 +1,11 @@
+C:\Users\ChaosEater\Documents\MagicWriterExercises\csv-duplicate-record-remover\CSVDuplicateLineRemover\CSVDuplicateLineRemover\bin\Debug\AchFindInvalidChars.exe.config
+C:\Users\ChaosEater\Documents\MagicWriterExercises\csv-duplicate-record-remover\CSVDuplicateLineRemover\CSVDuplicateLineRemover\bin\Debug\AchFindInvalidChars.exe
+C:\Users\ChaosEater\Documents\MagicWriterExercises\csv-duplicate-record-remover\CSVDuplicateLineRemover\CSVDuplicateLineRemover\bin\Debug\AchFindInvalidChars.pdb
+C:\Users\ChaosEater\Documents\MagicWriterExercises\csv-duplicate-record-remover\CSVDuplicateLineRemover\CSVDuplicateLineRemover\obj\Debug\CSVDuplicateLineRemover.csproj.AssemblyReference.cache
+C:\Users\ChaosEater\Documents\MagicWriterExercises\csv-duplicate-record-remover\CSVDuplicateLineRemover\CSVDuplicateLineRemover\obj\Debug\CSVDuplicateLineRemover.csproj.SuggestedBindingRedirects.cache
+C:\Users\ChaosEater\Documents\MagicWriterExercises\csv-duplicate-record-remover\CSVDuplicateLineRemover\CSVDuplicateLineRemover\obj\Debug\AchFindInvalidChars.DuplicateRemoverForm.resources
+C:\Users\ChaosEater\Documents\MagicWriterExercises\csv-duplicate-record-remover\CSVDuplicateLineRemover\CSVDuplicateLineRemover\obj\Debug\AchFindInvalidChars.Properties.Resources.resources
+C:\Users\ChaosEater\Documents\MagicWriterExercises\csv-duplicate-record-remover\CSVDuplicateLineRemover\CSVDuplicateLineRemover\obj\Debug\CSVDuplicateLineRemover.csproj.GenerateResource.cache
+C:\Users\ChaosEater\Documents\MagicWriterExercises\csv-duplicate-record-remover\CSVDuplicateLineRemover\CSVDuplicateLineRemover\obj\Debug\CSVDuplicateLineRemover.csproj.CoreCompileInputs.cache
+C:\Users\ChaosEater\Documents\MagicWriterExercises\csv-duplicate-record-remover\CSVDuplicateLineRemover\CSVDuplicateLineRemover\obj\Debug\AchFindInvalidChars.exe
+C:\Users\ChaosEater\Documents\MagicWriterExercises\csv-duplicate-record-remover\CSVDuplicateLineRemover\CSVDuplicateLineRemover\obj\Debug\AchFindInvalidChars.pdb
